@@ -30,7 +30,7 @@ namespace Tyuiu.KolesnikovMN.Sprint1.Task0.V23
 
             Console.WriteLine(ds.Calculate());
 
-            Console.ReadKey();
+            Console.ReadKey(); 
         }
     }
 }
