@@ -26,20 +26,21 @@ namespace Tyuiu.KolesnikovMN.Sprint1.Task1.V16
 
             double a, x, y;
 
-            Console.WriteLine("Введите значение Y:");
-            y = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("Введите значение A:");
+            a = Convert.ToDouble(Console.ReadLine());
+
 
             Console.WriteLine("Введите значение X:");
             x = Convert.ToDouble(Console.ReadLine());
 
-            Console.WriteLine("Введите значение A:");
-            a = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("Введите значение Y:");
+            y = Convert.ToDouble(Console.ReadLine());
 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
 
-            Console.WriteLine(ds.Calculate(y, x, a));
+            Console.WriteLine(ds.Calculate(a, x, y));
             Console.ReadLine();
         }
     }
