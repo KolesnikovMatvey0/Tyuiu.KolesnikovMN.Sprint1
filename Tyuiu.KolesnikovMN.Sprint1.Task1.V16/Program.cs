@@ -24,7 +24,7 @@ namespace Tyuiu.KolesnikovMN.Sprint1.Task1.V16
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");
 
-            double a, x, y;
+            double x, y, a;
 
 
             Console.WriteLine("Введите значение X:");
