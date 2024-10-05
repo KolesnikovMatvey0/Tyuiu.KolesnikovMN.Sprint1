@@ -39,7 +39,7 @@ namespace Tyuiu.KolesnikovMN.Sprint1.Task1.V16
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
 
-            Console.WriteLine(ds.Calculate(a, x, y));
+            Console.WriteLine(ds.Calculate(x, y, a));
             Console.ReadLine();
         }
     }
