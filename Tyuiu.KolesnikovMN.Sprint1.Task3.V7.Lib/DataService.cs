@@ -6,7 +6,7 @@ namespace Tyuiu.KolesnikovMN.Sprint1.Task3.V7.Lib
     {
         public double VerstsToKilometers(double verst)
         {
-            return Math.Round(verst * 106.68, 3);
+            return Math.Round(verst * 1.0668, 3);
         }
     }
 }
