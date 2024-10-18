@@ -6,7 +6,7 @@ namespace Tyuiu.KolesnikovMN.Sprint1.Task2.V16.Lib
     {
         public double CalculatePerimetrCircle(int value)
         {
-            double perimetr = 2 * 3.14 * value;
+            double perimetr = 2 * 3.1415 * value;
             return perimetr;
         }
     }
