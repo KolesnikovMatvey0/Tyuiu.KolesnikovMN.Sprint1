@@ -11,7 +11,7 @@ namespace Tyuiu.KolesnikovMN.Sprint1.Task1.V16
             Console.Title = "Спринт #1 | Выполнил: Колесников М. Н. | РППб-24-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #1                                                               *");
-            Console.WriteLine("* Тема: Создания итогового решения по спринту                             *");
+            Console.WriteLine("* Тема: Организация ввода\\вывода в консольных приложениях                *");
             Console.WriteLine("* Задание #1                                                              *");
             Console.WriteLine("* Вариант #16                                                             *");
             Console.WriteLine("* Выполнил: Колесников Матвей Николаевич | РППб-24-1                      *");
