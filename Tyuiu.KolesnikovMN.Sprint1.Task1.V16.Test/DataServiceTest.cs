@@ -10,8 +10,8 @@ namespace Tyuiu.KolesnikovMN.Sprint1.Task1.V16.Test
         {
             DataService ds = new DataService();
             double a = 2.0;
-            double x = 1.0;
-            double y = 2.0;
+            double x = 2.0;
+            double y = 1.0;
             var res = ds.Calculate(a, x, y);
             Assert.AreEqual(22, res);
         }

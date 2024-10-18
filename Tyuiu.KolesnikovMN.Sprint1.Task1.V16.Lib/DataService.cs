@@ -6,7 +6,7 @@ namespace Tyuiu.KolesnikovMN.Sprint1.Task1.V16.Lib
     {
         public double Calculate(double a, double x, double y)
         {
-            return a * 5 * y + 2 * x;
+            return a * 5 * x + 2 * y;
         }
     }
 }
