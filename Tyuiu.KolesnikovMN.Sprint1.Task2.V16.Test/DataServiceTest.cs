@@ -10,7 +10,7 @@ namespace Tyuiu.KolesnikovMN.Sprint1.Task2.V16.Test
         {
             DataService ds = new DataService();
             int x = 6;
-            var res = ds.CalculatePerimetrCircle(x) + 0.002;
+            var res = ds.CalculatePerimetrCircle(x);
             Assert.AreEqual(37.699, res);
         }
     }
