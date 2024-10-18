@@ -12,8 +12,8 @@ namespace Tyuiu.KolesnikovMN.Sprint1.Task5.V1
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #1                                                               *");
             Console.WriteLine("* Тема: Создания итогового решения по спринту                             *");
-            Console.WriteLine("* Задание #1                                                              *");
-            Console.WriteLine("* Вариант #16                                                             *");
+            Console.WriteLine("* Задание #5                                                              *");
+            Console.WriteLine("* Вариант #1                                                              *");
             Console.WriteLine("* Выполнил: Колесников Матвей Николаевич | РППб-24-1                      *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
