@@ -6,7 +6,7 @@ namespace Tyuiu.KolesnikovMN.Sprint1.Task7.V16.Lib
     {
         public double Calculate(double x)
         {
-            return Math.Sin(x*x) + Math.Cos(x*x)/(3*Math.Pow(x, 3)) - Math.Sin(Math.Sqrt((x*x) - 1));
+            return Math.Round(Math.Sin(Math.Sqrt(x * x)) + (Math.Cos(x * x) / (3 * x * x * x)) - Math.Sin(Math.Sqrt((x * x) - 1)), 3);
         }
     }
 }

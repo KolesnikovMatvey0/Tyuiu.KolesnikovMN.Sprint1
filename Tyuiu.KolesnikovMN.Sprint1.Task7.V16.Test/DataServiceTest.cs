@@ -9,9 +9,9 @@ namespace Tyuiu.KolesnikovMN.Sprint1.Task7.V16.Test
         public void ValidExpression()
         {
             DataService ds = new DataService();
-            double x = 0;
+            double x = 5;
             var res = ds.Calculate(x);
-            Assert.AreEqual(1, res);
+            Assert.AreEqual(0.026, res);
         }
     }
 }
